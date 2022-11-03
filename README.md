@@ -4,7 +4,7 @@ Build fails.
 
 Related:
 
-- https://github.com/vercel/next.js/pull/42106/files
+- https://github.com/vercel/next.js/pull/42106
 - https://github.com/nrwl/nx/issues/12912
 - https://github.com/nrwl/nx/issues/12916
 
