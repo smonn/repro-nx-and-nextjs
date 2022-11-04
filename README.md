@@ -1,4 +1,4 @@
-Reproducing issues with Nx and Next.js v13.0.1
+Reproducing issues with Nx and Next.js v13.0.1+
 
 Build fails.
 
